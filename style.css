@@ -131,4 +131,8 @@ a:hover {
   .container {
     width: 300px;
   }
+
+   .card-dark{
+  margin-top: 25%;
+}
 }
