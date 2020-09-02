@@ -66,10 +66,10 @@ a:hover {
   margin: 40px auto;
 }
 
-.card-dark{
-  margin-top: 25%;
+/*.card-dark{
+  margin-top: 15%;
 
-}
+}*/
 
 .card-light {
     background-color: #0b1329;
@@ -116,9 +116,9 @@ a:hover {
   font-size: 20px;
   }
 
-  .card-dark{
+  /*.card-dark{
   margin-top: 10%;
-}
+}*/
 }
 @media (max-width: 720px) {
   /* For a screen < 720px, this CSS will be read */
