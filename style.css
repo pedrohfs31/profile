@@ -130,6 +130,7 @@ a:hover {
   /* For a screen < 540px, this CSS will be read */
   .container {
     width: 300px;
+    margin-top: 30%;
   }
 
 }
